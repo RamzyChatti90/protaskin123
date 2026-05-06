@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "protaskin123",
+    "buildTool": "maven",
+    "clientFramework": "angular",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "entities": ["Task", "Category", "Comment"],
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "ZjdiNTFkNDdhYTc4MGMzMTZmYTI3ZjdkNGM1NGI1NmVjYmM5ZjI3NzcwZjMzN2U0YWU4ZjQzMDQ5YzAyMmNjMzQ2NTk2YmI3MzE3N2QzZjc1MGJjZTY3ZmVjODhjZWQ2NWE3Njk4ZmQxYzk2Yjc2MGY3NDM1MjNjNWI3NjQ4NjU=",
+    "languages": ["en"],
+    "lastLiquibaseTimestamp": 1778093816000,
+    "nativeLanguage": "en",
+    "packageName": "com.protaskin123",
+    "prodDatabaseType": "postgresql",
+    "serverPort": "9000"
+  }
+}
